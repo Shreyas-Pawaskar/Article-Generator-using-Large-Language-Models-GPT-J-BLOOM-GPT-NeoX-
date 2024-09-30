@@ -1,0 +1,6 @@
+transformers==4.28.0
+torch==2.2.0
+huggingface-hub
+sentencepiece
+numpy
+pandas
