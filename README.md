@@ -29,7 +29,7 @@ The models were evaluated based on:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/article_generator.git
+   git clone https://github.com/Shreyas-Pawaskar/article_generator.git
    cd article_generator
    ```
 
@@ -58,6 +58,3 @@ A comparison report on the models' performance is generated in a Word document (
 - Support for multiple languages and sentiment analysis integration.
 - Further fine-tuning of the models for specific domains.
 
-## License
-
-This project is licensed under the MIT License.
